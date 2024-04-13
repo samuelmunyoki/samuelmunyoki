@@ -16,7 +16,7 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=samuelmunyoki&theme=onedark&column=-1" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samuelmunyoki&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samuelmunyoki&theme=github-dark-dimmed&custom_title=Samuel's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ```yaml
 name: Samuel Munyoki
@@ -40,11 +40,7 @@ hobbies: ["Cinema", "Competitive Gaming", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/guilyx/blockchain_learning/issues/1#issuecomment-2051379291) in [guilyx/blockchain_learning](https://github.com/guilyx/blockchain_learning)
-2. ❗ Opened issue [#1](https://github.com/guilyx/blockchain_learning/issues/1) in [guilyx/blockchain_learning](https://github.com/guilyx/blockchain_learning)
-3. 🗣 Commented on [#8](https://github.com/Sango-Club/Dropped/issues/8#issuecomment-2051371074) in [Sango-Club/Dropped](https://github.com/Sango-Club/Dropped)
-4. 🗣 Commented on [#11](https://github.com/Sango-Club/Dropped/issues/11#issuecomment-2051366935) in [Sango-Club/Dropped](https://github.com/Sango-Club/Dropped)
-5. 🗣 Commented on [#1](https://github.com/Sango-Club/Dropped/issues/1#issuecomment-2051356934) in [Sango-Club/Dropped](https://github.com/Sango-Club/Dropped)
+
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
