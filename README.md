@@ -1,5 +1,5 @@
-[![Actions Status](https://github.com/samuelmunyoki/samuelmunyoki/workflows/wakatime-stats/badge.svg)](https://github.com/samuelmunyoki/samuelmunyoki/actions)
-[![Actions Status](https://github.com/samuelmunyoki/samuelmunyoki/workflows/update-gh-activity/badge.svg)](https://github.com/samuelmunyoki/samuelmunyoki/actions)
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/samuelmunyoki/samuelmunyoki/actions)
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/samuelmunyoki/samuelmunyoki/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=samuelmunyoki.samuelmunyoki)
 
 <!-- <p align="center">
@@ -7,16 +7,16 @@
 </p> -->
 
 <p align="center">
-  <img src="https://socialify.git.ci/samuelmunyoki/samuelmunyoki/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="samuelmunyoki" width="700" height="300" />
+  <img src="https://socialify.git.ci/samuelmunyoki/samuelmunyoki/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="samuel" width="700" height="300" />
 </p>
 
 <p align="center">
 <br/>
 <a href="https://www.linkedin.com/in/erwinlejeune-lkn">
-  <img alt="samuelmunyoki's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
 <a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
-  <img alt="samuelmunyoki's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+  <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
 <br>
 </p>
@@ -25,23 +25,16 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=samuelmunyoki&theme=onedark&column=-1" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samuelmunyoki&theme=github-dark-dimmed&custom_title=samuelmunyoki%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samuelmunyoki&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ```yaml
 name: Samuel Munyoki
-located_in: Nairoi, Kenya
-from: Nairobi (Kenya)
-job: N/A
-education: [""]
-company: N/A
-past experiences: 
-  - [""]
-
-fields_of_interests: [""]
-technical_background: [""]
-currently_learning: ["Web3", "Go"]
+located_in: Nairobi, Kenya
+job: Software Engineer 
+education: ["Bachelor's Software Enineering"]
+currently_learning: ["Web3", "React", "Vue"]
 will_learn: ["Blockchain (backend)"]
-hobbies: ["Cinema", "IoT"]
+hobbies: ["Cinema", "Competitive Gaming", "IoT"]
 ```
 
 <p align="center">
@@ -56,7 +49,11 @@ hobbies: ["Cinema", "IoT"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-
+1. 🗣 Commented on [#1](https://github.com/guilyx/blockchain_learning/issues/1#issuecomment-2051379291) in [guilyx/blockchain_learning](https://github.com/guilyx/blockchain_learning)
+2. ❗ Opened issue [#1](https://github.com/guilyx/blockchain_learning/issues/1) in [guilyx/blockchain_learning](https://github.com/guilyx/blockchain_learning)
+3. 🗣 Commented on [#8](https://github.com/Sango-Club/Dropped/issues/8#issuecomment-2051371074) in [Sango-Club/Dropped](https://github.com/Sango-Club/Dropped)
+4. 🗣 Commented on [#11](https://github.com/Sango-Club/Dropped/issues/11#issuecomment-2051366935) in [Sango-Club/Dropped](https://github.com/Sango-Club/Dropped)
+5. 🗣 Commented on [#1](https://github.com/Sango-Club/Dropped/issues/1#issuecomment-2051356934) in [Sango-Club/Dropped](https://github.com/Sango-Club/Dropped)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
@@ -66,6 +63,62 @@ hobbies: ["Cinema", "IoT"]
 
 **🐱 My GitHub Data** 
 
+> 📦 334.6 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 59 Public Repositories 
+ > 
+> 🔑 13 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                284 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+🌆 Daytime                2291 commits        ████████░░░░░░░░░░░░░░░░░   33.67 % 
+🌃 Evening                3165 commits        ████████████░░░░░░░░░░░░░   46.52 % 
+🌙 Night                  1064 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 13/04/2024 12:27:57 UTC
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-simple-->
+
+```text
+From: 16 July 2020 - To: 12 April 2024
+
+Total Time: 1,634 hrs 51 mins
+
+C++                561 hrs 39 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.36 %
+Go                 313 hrs 18 mins ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.16 %
+Python             234 hrs 43 mins ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.36 %
+C                  129 hrs 44 mins ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.94 %
+Bash               83 hrs 22 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.10 %
+YAML               75 hrs 39 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.63 %
+```
+
+<!--END_SECTION:waka-simple-->
+
+Liked it ?
+
+*ERC-20 / EVM: **0x07ed706146545d01fa66a3c08ebca8c93a0089e5***
+
+*BTC: **bc1q3lu85cfkrc20ut64v90y428l79wfnv83mu72jv***
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
