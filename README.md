@@ -44,8 +44,6 @@ hobbies: ["Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-184.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -81,7 +79,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 14/04/2024 14:37:09 UTC
+ Last Updated on 15/04/2024 12:15:23 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
