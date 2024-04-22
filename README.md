@@ -46,25 +46,27 @@ hobbies: ["Cinema", "Competitive Gaming", "IoT"]
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-184.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-185.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 120.6 kB Used in GitHub's Storage 
  > 
+> 🏆 421 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
-> 📜 42 Public Repositories 
+> 📜 43 Public Repositories 
  > 
-> 🔑 16 Private Repositories 
+> 🔑 15 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                115 commits         ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-🌆 Daytime                226 commits         ████████████░░░░░░░░░░░░░   46.89 % 
-🌃 Evening                97 commits          █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-🌙 Night                  44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+🌞 Morning                115 commits         ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+🌆 Daytime                228 commits         ████████████░░░░░░░░░░░░░   47.11 % 
+🌃 Evening                99 commits          █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+🌙 Night                  42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
 ```
 
 
@@ -81,7 +83,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/04/2024 12:13:36 UTC
+ Last Updated on 22/04/2024 12:14:55 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
