@@ -46,27 +46,40 @@ hobbies: ["Cinema", "Competitive Gaming", "IoT"]
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-193.1%20thousand%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-199.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 124.5 kB Used in GitHub's Storage 
+> 📦 144.0 kB Used in GitHub's Storage 
  > 
-> 🏆 653 Contributions in the Year 2024
+> 🏆 668 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 44 Public Repositories 
+> 📜 45 Public Repositories 
  > 
-> 🔑 19 Private Repositories 
+> 🔑 20 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                159 commits         ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-🌆 Daytime                314 commits         ███████████░░░░░░░░░░░░░░   44.16 % 
-🌃 Evening                175 commits         ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-🌙 Night                  63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+🌞 Morning                161 commits         ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+🌆 Daytime                324 commits         ███████████░░░░░░░░░░░░░░   44.75 % 
+🌃 Evening                176 commits         ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+🌙 Night                  63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Tuesday                  93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Wednesday                102 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Thursday                 76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Friday                   109 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Saturday                 168 commits         ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+Sunday                   103 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
 ```
 
 
@@ -82,8 +95,24 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+**I Mostly Code in JavaScript** 
 
- Last Updated on 14/05/2024 12:14:55 UTC
+```text
+Go                       12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+HTML                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/samuelmunyoki/samuelmunyoki/main/assets/bar_graph.png)
+
+
+ Last Updated on 15/05/2024 12:15:51 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
