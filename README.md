@@ -52,7 +52,7 @@ hobbies: ["Cinema", "Competitive Gaming", "IoT"]
 
 **🐱 My GitHub Data** 
 
-> 📦 144.0 kB Used in GitHub's Storage 
+> 📦 144.1 kB Used in GitHub's Storage 
  > 
 > 🏆 668 Contributions in the Year 2024
  > 
@@ -112,7 +112,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/samuelmunyoki/samuelmunyoki/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2024 12:15:51 UTC
+ Last Updated on 16/05/2024 12:15:05 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
