@@ -58,9 +58,9 @@ hobbies: ["Cinema", "Competitive Gaming", "IoT"]
  > 
 > 💼 Opted to Hire
  > 
-> 📜 48 Public Repositories 
+> 📜 47 Public Repositories 
  > 
-> 🔑 20 Private Repositories 
+> 🔑 21 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -112,7 +112,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/samuelmunyoki/samuelmunyoki/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2024 12:14:41 UTC
+ Last Updated on 24/05/2024 12:14:28 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
