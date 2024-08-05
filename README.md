@@ -54,11 +54,11 @@ hobbies: ["Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 246.8 kB Used in GitHub's Storage 
  > 
-> 🏆 787 Contributions in the Year 2024
+> 🏆 788 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 47 Public Repositories 
+> 📜 48 Public Repositories 
  > 
 > 🔑 28 Private Repositories 
  > 
@@ -98,11 +98,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-Go                       12 repos            █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Python                   15 repos            ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Go                       12 repos            █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 
 
@@ -112,7 +112,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/samuelmunyoki/samuelmunyoki/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2024 12:14:21 UTC
+ Last Updated on 05/08/2024 12:16:50 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
