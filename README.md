@@ -44,8 +44,6 @@ hobbies: ["Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-542.6%20thousand%20lines%20of%20code-blue)
@@ -54,7 +52,7 @@ hobbies: ["Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 158.5 kB Used in GitHub's Storage 
  > 
-> 🏆 777 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -112,7 +110,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/samuelmunyoki/samuelmunyoki/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2024 12:15:12 UTC
+ Last Updated on 08/09/2024 12:15:33 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
