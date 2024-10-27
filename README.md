@@ -52,13 +52,13 @@ hobbies: ["Cinema", "Competitive Gaming", "IoT"]
 
 **🐱 My GitHub Data** 
 
-> 📦 210.0 kB Used in GitHub's Storage 
+> 📦 212.5 kB Used in GitHub's Storage 
  > 
-> 🏆 794 Contributions in the Year 2024
+> 🏆 795 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 53 Public Repositories 
+> 📜 54 Public Repositories 
  > 
 > 🔑 31 Private Repositories 
  > 
@@ -98,11 +98,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Go                       12 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Python                   15 repos            █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+Go                       12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+TypeScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 
 
@@ -112,7 +112,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/samuelmunyoki/samuelmunyoki/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2024 12:16:57 UTC
+ Last Updated on 27/10/2024 12:16:34 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
