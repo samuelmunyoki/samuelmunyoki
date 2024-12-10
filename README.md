@@ -54,11 +54,11 @@ hobbies: ["Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 212.7 kB Used in GitHub's Storage 
  > 
-> 🏆 803 Contributions in the Year 2024
+> 🏆 804 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 54 Public Repositories 
+> 📜 55 Public Repositories 
  > 
 > 🔑 31 Private Repositories 
  > 
@@ -112,7 +112,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/samuelmunyoki/samuelmunyoki/main/assets/bar_graph.png)
 
 
- Last Updated on 09/12/2024 12:21:17 UTC
+ Last Updated on 10/12/2024 12:20:48 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
