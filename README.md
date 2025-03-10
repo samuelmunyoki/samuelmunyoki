@@ -54,8 +54,6 @@ hobbies: ["Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 215.6 kB Used in GitHub's Storage 
  > 
-> 🏆 139 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 60 Public Repositories 
@@ -112,7 +110,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/samuelmunyoki/samuelmunyoki/main/assets/bar_graph.png)
 
 
- Last Updated on 09/03/2025 12:14:36 UTC
+ Last Updated on 10/03/2025 12:20:27 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
