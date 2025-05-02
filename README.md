@@ -44,15 +44,13 @@ hobbies: ["Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-777.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 216.5 kB Used in GitHub's Storage 
+> 📦 216.6 kB Used in GitHub's Storage 
  > 
 > 🏆 339 Contributions in the Year 2025
  > 
@@ -98,11 +96,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-TypeScript               14 repos            █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Go                       12 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Python                   15 repos            █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+TypeScript               14 repos            █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Go                       12 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
 
 
@@ -112,7 +110,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/samuelmunyoki/samuelmunyoki/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2025 12:20:28 UTC
+ Last Updated on 02/05/2025 12:20:42 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
