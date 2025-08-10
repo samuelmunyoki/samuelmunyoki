@@ -54,7 +54,7 @@ hobbies: ["Cinema", "Competitive Gaming", "IoT"]
 
 > 📦 218.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 429 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -112,7 +112,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/samuelmunyoki/samuelmunyoki/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2025 12:21:44 UTC
+ Last Updated on 10/08/2025 12:22:11 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
