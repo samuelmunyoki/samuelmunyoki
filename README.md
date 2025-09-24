@@ -44,6 +44,8 @@ hobbies: ["Cinema", "Competitive Gaming", "IoT"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
@@ -60,6 +62,39 @@ hobbies: ["Cinema", "Competitive Gaming", "IoT"]
  > 
 > 🔑 35 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                597 commits         ███████░░░░░░░░░░░░░░░░░░   28.73 % 
+🌆 Daytime                933 commits         ███████████░░░░░░░░░░░░░░   44.90 % 
+🌃 Evening                430 commits         █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+🌙 Night                  118 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Tuesday                  240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Wednesday                367 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Thursday                 389 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Friday                   372 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Saturday                 286 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Sunday                   166 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Nairobi
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -77,7 +112,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/samuelmunyoki/samuelmunyoki/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2025 12:22:05 UTC
+ Last Updated on 24/09/2025 12:23:22 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
