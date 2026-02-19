@@ -46,7 +46,7 @@ hobbies: ["Cinema", "Competitive Gaming", "IoT"]
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.69%20million%20lines%20of%20code-blue?style=flat)
 
@@ -112,7 +112,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/samuelmunyoki/samuelmunyoki/main/assets/bar_graph.png)
 
 
- Last Updated on 18/02/2026 12:39:19 UTC
+ Last Updated on 19/02/2026 12:40:59 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
