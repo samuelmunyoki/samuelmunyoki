@@ -52,7 +52,7 @@ hobbies: ["Cinema", "Competitive Gaming", "IoT"]
 
 **🐱 My GitHub Data** 
 
-> 📦 240.9 kB Used in GitHub's Storage 
+> 📦 241.0 kB Used in GitHub's Storage 
  > 
 > 🏆 12 Contributions in the Year 2026
  > 
@@ -112,7 +112,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/samuelmunyoki/samuelmunyoki/main/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2026 12:28:17 UTC
+ Last Updated on 23/02/2026 12:41:21 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
