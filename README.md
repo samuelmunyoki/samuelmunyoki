@@ -48,11 +48,11 @@ hobbies: ["Cinema", "Competitive Gaming", "IoT"]
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.97%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.01%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 245.0 kB Used in GitHub's Storage 
+> 📦 248.0 kB Used in GitHub's Storage 
  > 
 > 🏆 27 Contributions in the Year 2026
  > 
@@ -62,39 +62,6 @@ hobbies: ["Cinema", "Competitive Gaming", "IoT"]
  > 
 > 🔑 38 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1679 commits        ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-🌆 Daytime                3563 commits        █████████████░░░░░░░░░░░░   50.32 % 
-🌃 Evening                1683 commits        ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-🌙 Night                  156 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   752 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Tuesday                  1036 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Wednesday                1671 commits        ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-Thursday                 1275 commits        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-Friday                   1264 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-Saturday                 837 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Sunday                   246 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Nairobi
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -112,7 +79,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/samuelmunyoki/samuelmunyoki/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 15:28:48 UTC
+ Last Updated on 29/05/2026 14:41:25 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
