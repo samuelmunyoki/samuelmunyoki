@@ -62,6 +62,39 @@ hobbies: ["Cinema", "Competitive Gaming", "IoT"]
  > 
 > 🔑 38 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1679 commits        ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+🌆 Daytime                3568 commits        █████████████░░░░░░░░░░░░   50.35 % 
+🌃 Evening                1683 commits        ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+🌙 Night                  156 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   752 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Tuesday                  1041 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Wednesday                1671 commits        ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+Thursday                 1275 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Friday                   1264 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+Saturday                 837 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Sunday                   246 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Nairobi
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -79,7 +112,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/samuelmunyoki/samuelmunyoki/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2026 14:26:23 UTC
+ Last Updated on 06/06/2026 13:08:58 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
