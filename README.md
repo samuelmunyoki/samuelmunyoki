@@ -48,7 +48,7 @@ hobbies: ["Cinema", "Competitive Gaming", "IoT"]
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.39%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.49%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -65,21 +65,21 @@ hobbies: ["Cinema", "Competitive Gaming", "IoT"]
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1823 commits        ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-🌆 Daytime                3904 commits        █████████████░░░░░░░░░░░░   50.55 % 
-🌃 Evening                1836 commits        ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-🌙 Night                  160 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+🌞 Morning                1859 commits        ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+🌆 Daytime                3988 commits        █████████████░░░░░░░░░░░░   50.60 % 
+🌃 Evening                1874 commits        ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+🌙 Night                  161 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   816 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Tuesday                  1141 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Wednesday                1839 commits        ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-Thursday                 1387 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-Friday                   1381 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Saturday                 905 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Sunday                   254 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Monday                   832 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Tuesday                  1166 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Wednesday                1881 commits        ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
+Thursday                 1415 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Friday                   1410 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Saturday                 922 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Sunday                   256 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 ```
 
 
@@ -118,7 +118,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/samuelmunyoki/samuelmunyoki/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 12:27:33 UTC
+ Last Updated on 21/08/2026 12:26:57 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
